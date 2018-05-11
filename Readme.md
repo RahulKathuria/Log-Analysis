@@ -29,4 +29,4 @@
     	d) psql -d news -f newsdata.sql
     	e) pswl -d news
 6. These commands will load the database and connect you to it too.
-7. Now after running all these commands, simply run "python newsdata.py" on your terminal.
+7. Now after running all these commands, simply run "python news.py" on your terminal.
