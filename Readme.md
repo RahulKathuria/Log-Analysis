@@ -12,7 +12,8 @@ Building an informative summary from logs is a real task that comes up very ofte
  3. Now this is the main database in the downloaded file. 
  4. Clone this repo and move newsdata.sql into the downloaded folder.
  5. Now open terminal and write these commands to run virtual machine:
-    	a) vagrant up
+    	
+		a) vagrant up
     	b) vagrant ssh
     	c) cd /vagrant
     	d) psql -d news -f newsdata.sql
