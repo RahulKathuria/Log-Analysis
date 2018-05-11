@@ -1,9 +1,9 @@
 ## Why this project?
 
-In this project, you will stretch your SQL database skills. You will get practice interacting with a live database both from the command line and from your code. You will explore a large database with over a million rows. And you will build and refine complex queries and use them to draw business conclusions from data.
+	In this project, you will stretch your SQL database skills. You will get practice interacting with a live database both from the command line and from your code. You will explore a large database with over a million rows. And you will build and refine complex queries and use them to draw business conclusions from data.
 
 ## Report generation
-Building an informative summary from logs is a real task that comes up very often in software engineering. For instance, at Udacity we collect logs to help us measure student progress and the success of our courses. The reporting tools we use to analyze those logs involve hundreds of lines of SQL.
+	Building an informative summary from logs is a real task that comes up very often in software engineering. For instance, at Udacity we collect logs to help us measure student progress and the success of our courses. The reporting tools we use to analyze those logs involve hundreds of lines of SQL.
 
 ## How to run:
  
@@ -12,7 +12,7 @@ Building an informative summary from logs is a real task that comes up very ofte
  3. Now this is the main database in the downloaded file. 
  4. Clone this repo and move newsdata.sql into the downloaded folder.
  5. Now open terminal and write these commands to run virtual machine:
-    	
+  
 		a) vagrant up
     	b) vagrant ssh
     	c) cd /vagrant
